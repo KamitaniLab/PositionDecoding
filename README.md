@@ -1,4 +1,7 @@
 # PositionDecoding
+
+<img src="PositionDecoding.jpg" width="600"/>
+
 This repository contains the demo codes for replicating results in our paper: 
 [Majima, <i>et al.</i>, "Position information encoded by population activity in hierarchical visual areas"](http://eneuro.org/content/early/2017/03/23/ENEURO.0268-16.2017)
 
