@@ -17,8 +17,7 @@ Please run
 - "exeRFMestimation_XXXXXXXX.m" in the "RFMestimation" folder 
 - "exeDecodingWithRFM_XXXXXXXX.m" in the "decodingWithRFM" folder
 
-in this order. The results (true and decoded stimulus positions) would be stored in the "results" folder in the decodingWithRFM folder.   
-Then, please run 
+in this order. The results (true and decoded stimulus positions) would be stored in the "results" folder in the decodingWithRFM folder. Then, please run 
 - "makeFigDecodingAccuracyWithRFM_XXXXXXXX.m". 
 
 The results figure would be created. 
