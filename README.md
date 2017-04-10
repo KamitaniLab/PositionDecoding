@@ -18,13 +18,13 @@ Please run
 - "exeDecodingWithRFM_XXXXXXXX.m" in the "decodingWithRFM" folder
 
 in this order. The results (true and decoded stimulus positions) would be stored in the "results" folder in the decodingWithRFM folder. Then, please run 
-- "makeFigDecodingAccuracyWithRFM_XXXXXXXX.m". 
+- "makeFigDecodingAccuracyWithRFM_XXXXXXXX.m" in the decodingWithRFM folder.
 
 The results figure would be created. 
 ### 2. Decoding based on SVR
 Please run 
 - "exeDecodingWithSVR_XXXXXXXX.m" in the "decodingWithSVR" folder
-- "makeFigDecodingAccuracyWithSVR_XXXXXXXX.m"
+- "makeFigDecodingAccuracyWithSVR_XXXXXXXX.m" in the same folder
 
 in this order.
 The decoding results would be stored in the "results" folder, and the results figure would be created.
