@@ -1,11 +1,11 @@
 clear all
 addpath(genpath('../tools/'));
 
-filename{1}=['TH130109'];
-filename{2}=['RA121222'];
-filename{3}=['YH130109'];
-filename{4}=['RO140926'];
-filename{5}=['SC150326'];
+filename{1}=['Subject1'];
+filename{2}=['Subject2'];
+filename{3}=['Subject3'];
+filename{4}=['Subject4'];
+filename{5}=['Subject5'];
 
 
 for index_filename=1:length(filename)
