@@ -11,7 +11,7 @@ Those should be included in the "data" folder.
 The fMRI data were saved according to the BrainDecoderToolbox2 format <https://github.com/KamitaniLab/BrainDecoderToolbox2>.
 
 ## How to use
-In our study, a ball randomly moving in a two dimensional field was presented to human subjects as a stimulus. The stimulus position was predicted (decoded) from brain activity by two decoding algorithms, maximum likelihood estimation (MLE) and support vector regression (SVR). While the first method provides straightforward interpretation given accurate voxel response models, the latter method is expected to perform model-free information retrieval from brain activity data.
+In our study, a ball randomly moving in a two dimensional field was presented to human subjects as a stimulus (see the above figure). The stimulus position was predicted (decoded) from brain activity by two decoding algorithms, maximum likelihood estimation (MLE) and support vector regression (SVR). While the first method provides straightforward interpretation given accurate voxel response models, the latter method is expected to perform model-free information retrieval from brain activity data.
 ### 1. Decoding based on MLE
 Please run 
 - "exeRFMestimation_XXXXXXXX.m" in the "RFMestimation" folder 
